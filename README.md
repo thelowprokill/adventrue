@@ -1,4 +1,4 @@
-# adventrue
+# Adventure
 Python Adventure game
 
 # Jon's Python adventure game.
