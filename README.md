@@ -5,7 +5,10 @@ Python Adventure game
 This is a simple game where you are put into a room.
 The objective is to find the exit room located somewhere in the building.
 Get there as fast as possible.
-Start the game with: $python3 adventure.py
+<br />
+Start the game with: 
+<br />
+$python3 adventure.py
 
 # Customize your experience.
 You can customize what rooms come up by modifying the .room_list file.
