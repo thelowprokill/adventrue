@@ -15,7 +15,7 @@ Some further customization can be done in .config.
 - num_rooms controls the number of rooms to put in the game.
 - min_connections is a soft minimum for the connections.
 - max_connections is a hard maximum for the connections.
-- log_level determines how much information is printed. All the info is put in the log file.
+- log_level determines how much information is printed. All the info is put in the log file. 1 <= log_level <= 2
 
 
 # Potential features to come.
